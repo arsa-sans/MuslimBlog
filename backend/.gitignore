@@ -1,5 +1,5 @@
-/node_modules
-/vendor
+node_modules
+vendor
 /public/hot
 /public/storage
 /storage/*.key
@@ -11,10 +11,10 @@
 !/storage/framework/sessions/.gitkeep
 /storage/framework/views/*
 !/storage/framework/views/.gitkeep
-/.env
-/.env.backup
-/.env.production
-/.phpunit.result.cache
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
 Homestead.json
 Homestead.yaml
 auth.json
